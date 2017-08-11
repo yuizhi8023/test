@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpMultiDownload", "HttpMultiDownload\HttpMultiDownload.csproj", "{E0763BEC-28DF-4611-A550-2368CFD456B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QZTest", "QZTest\QZTest.csproj", "{F718363E-A5E4-4760-AE43-F510EEF37242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzeData", "AnalyzeData\AnalyzeData.csproj", "{A5BE8F30-5D6B-4926-9AA2-2ECB613880F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0763BEC-28DF-4611-A550-2368CFD456B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0763BEC-28DF-4611-A550-2368CFD456B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0763BEC-28DF-4611-A550-2368CFD456B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0763BEC-28DF-4611-A550-2368CFD456B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F718363E-A5E4-4760-AE43-F510EEF37242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F718363E-A5E4-4760-AE43-F510EEF37242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F718363E-A5E4-4760-AE43-F510EEF37242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F718363E-A5E4-4760-AE43-F510EEF37242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5BE8F30-5D6B-4926-9AA2-2ECB613880F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BE8F30-5D6B-4926-9AA2-2ECB613880F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BE8F30-5D6B-4926-9AA2-2ECB613880F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BE8F30-5D6B-4926-9AA2-2ECB613880F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
